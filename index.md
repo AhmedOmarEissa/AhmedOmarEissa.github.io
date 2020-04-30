@@ -17,3 +17,6 @@ X amount of years wokring on x,y,z.
 
 # [Projects](./projects.html).
 
+# [courses](./courses.html).
+
+
