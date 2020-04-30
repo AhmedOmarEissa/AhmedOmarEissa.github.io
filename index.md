@@ -1,43 +1,83 @@
 ---
 layout: default
 ---
+**Email:** ahmedomar92@yahoo.com    
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Linkedin:** www.linkedin.com/in/ahmedomareissa
 
-[Link to another page](./another-page.html).
+
+
+**Skills**
+```
+SQL, ETL, Data modeling, Big Data, Gsheets, Power BI, Tableau, Python, R,  Plotly, Git, Machine Learning.
+```
+
+
+
+_[Link to another page](./another-page.html)._
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Resume
+linke to pdf download [Link to another page](./another-page.html).
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Experience
 
-## Header 2
+Detailed Experience [Link to another page](./another-page.html).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Uber
+#### Data Analyst | Analytics & Insights 
 
-### Header 3
+February 2018 - Present, Cairo & Amsterdam
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*   DI.
+*   CD.
+*   DG.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Data Analyst | Analytics & Insights 
 
-#### Header 4
+February 2018 - Present, Cairo & Amsterdam
+
+*   DI.
+*   CD.
+*   DG.
+
+### Vodafone
+#### Business Intelligence Engineer | Analytics Center of Excellence
+
+June 2017 - February 2018,  Cairo
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+## Courses and Certificates
+
+Detailed Experience [Link to another page](./another-page.html).
+
+### Uber
+#### Data Analyst | Analytics & Insights 
+
+February 2018 - Present, Cairo & Amsterdam
+
+*   DI.
+*   CD.
+*   DG.
+
+#### Data Analyst | Analytics & Insights 
+
+February 2018 - Present, Cairo & Amsterdam
+
+*   DI.
+*   CD.
+*   DG.
+
+### Vodafone
+#### Business Intelligence Engineer | Analytics Center of Excellence
+
+June 2017 - February 2018,  Cairo
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
