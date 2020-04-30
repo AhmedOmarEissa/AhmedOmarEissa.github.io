@@ -14,15 +14,54 @@
   <body>
     <div class="wrapper">
       <header>
+      {% if site.logo %}
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+      {% endif %}
+
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        <p>Data Analyst</p>
-        <p>Amsterdam</p>
-        <p>ahmedomar92@yahoo.com</p>
+        <p>Data Analyst | Amsterdam </br>
+        ahmedomar92@yahoo.com</p>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <p><strong><span style="font-family:
+          Arial, Helvetica, sans-serif;">Skills</span></strong></p>
+  <table style="width: 100%;">
+      <tbody>
+          <tr>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">SQL<br><br></span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Big Data<br><br></span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Gsheets<br><br></span></td>
+          </tr>
+          <tr>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">ETL<br></span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Python<br></span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Tableau<br><br></span></td>
+          </tr>
+          <tr>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Data Modeling<br></span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">R</span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Power BI<br></span></td>
+          </tr>
+          <tr>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Statstics<br></span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Machine Learning</span></td>
+              <td style="width: 33.3333%;"><span style="font-family:
+          Arial, Helvetica, sans-serif;">Git</span></td>
+          </tr>
+      </tbody>
+  </table>
+  <p><br></p>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
