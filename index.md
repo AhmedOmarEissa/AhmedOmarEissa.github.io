@@ -11,18 +11,10 @@ My current role is involving a very broad range of tasks, starting from data eng
 On personal level, I like reading specially in mathematics and logic, recently I started writing some blog posts to share data science knowledge in Arabic.
 
 
-**Skills**
-```
-SQL, ETL, Data modeling, Big Data, Gsheets, Power BI, Tableau, Python, R, Statstics, Git, Machine Learning, Business Performance Management.
-```
-
-
 # [Experience](./Resume.html)
-
 
 # [Projects](./projects.html)
 
-
-# [courses](./courses.html)
+# [Courses](./courses.html)
 
 
