@@ -9,6 +9,6 @@ My current role is involving a very broad range of tasks, starting from data eng
 
 On personal level, I like reading specially in mathematics and logic, recently I started writing some blog posts to share data science knowledge in Arabic.
 
-## [Experience](./experience.html)  |   [Projects](./projects.html)   |   ## [Courses](./courses.html)
+## [Experience](./experience.html)  |   [Projects](./projects.html)   |   [Courses](./courses.html)
 
 
