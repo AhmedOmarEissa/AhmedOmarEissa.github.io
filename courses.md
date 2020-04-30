@@ -4,9 +4,9 @@ layout: default
 [back](./)
 
 ## Courses I've completed:
-Usually I'm taking a course or two every month, some of them are good so I pursue the certificates, below those are the courses I've completed and recieved certificates for:
+Usually I take a course or two every month, some of them are good so I pursue the certificates, below those are the courses I've completed and recieved certificates for:
 
-### [DataCamp](https://www.datacamp.com/profile/AhmedOmarEissa)
+### <a href="https://www.datacamp.com/profile/AhmedOmarEissa" target="_blank">DataCamp1</a>
 *   [Pyton Programmer Track](https://www.datacamp.com/statement-of-accomplishment/track/e3128c11c37bca473a1381ce98534f870d2e2fcb)
 *   [Data Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/5d9be18ebdd04e25d505266209b624dacdcc25f9)
 
