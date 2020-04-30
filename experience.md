@@ -39,6 +39,7 @@ August 2016 - June 2017,  Cairo
 ### <a name="SAP"></a> SAP
 #### Intern | SAP Young Professionals Program
 May 2016 - July 2017,  Cairo
+
   Comprehensive 3 months training program covering a full development plan including personal and business skills to enable functional and technical knowledge of SAP solutions.
 
 
