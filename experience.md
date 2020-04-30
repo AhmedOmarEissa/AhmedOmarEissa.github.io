@@ -3,10 +3,7 @@ layout: default
 ---
 [back](./)
 ## Experience
-* [Uber](#uber)
-* [Vodafone](#vodafone)
-* [ProCons-4it](#ProCons-4it)
-* [SAP](#SAP)
+[Uber](#uber) | [Vodafone](#vodafone) | [ProCons-4it](#ProCons-4it) | [SAP](#SAP)
 
 
 ### <a name="uber"></a> Uber
