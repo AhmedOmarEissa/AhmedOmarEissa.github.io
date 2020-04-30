@@ -3,10 +3,10 @@ layout: default
 ---
 [back](./)
 ## Experience
-* [Uber](#uber)                   | Feb 2018 - Present
-* [Vodafone](#vodafone)       | Jun 2017 - Jan 2018
-* [ProCons-4it](#ProCons-4it) | Aug 2016 - Jun 2017
-* [SAP](#SAP)                 | May 2016 - Jul 2016
+* Feb 2018 - Present  | [Uber](#uber)
+* Jun 2017 - Jan 2018 | [Vodafone](#vodafone)
+* Aug 2016 - Jun 2017 | [ProCons-4it](#ProCons-4it)
+* May 2016 - Jul 2016 | [SAP](#SAP)
 
 
 ### <a name="uber"></a> Uber
