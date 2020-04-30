@@ -1,16 +1,12 @@
 ---
 layout: default
 ---
-
-# Ahmed Omar Eissa
-
 ## Experience
+[back](./)
 
-Detailed Experience [Link to another page](./another-page.html).
 
 ### Uber
-#### Data Analyst | Analytics & Insights
-
+#### Data Analyst | Analytics & Insights | EMEA Community Operations S&P
 February 2018 - Present, Cairo & Amsterdam
 
 *   DI.
