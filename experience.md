@@ -3,7 +3,7 @@ layout: default
 ---
 [back](./)
 ## Experience
-[Vodafone](####Vodafone).
+[Vodafone](#2016).
 
 ### **Uber**
 #### Data Analyst | Analytics & Insights | EMEA Community Operations S&P
@@ -28,7 +28,7 @@ June 2017 - February 2018,  Cairo
 
 ### Vodafone
 #### Business Intelligence Engineer | Analytics Center of Excellence
-June 2017 - February 2018,  Cairo
+June 2016 - February 2018,  Cairo
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
