@@ -36,6 +36,7 @@ June 2017 - February 2018,  Cairo
 <details>
 
 #### <summary> Business Intelligence Consultant </summary>
+
 August 2016 - June 2017,  Cairo
 * Translate business requirements into specifications used to implement the required reports and dashboards
 * Analyze, Design, Development, Testing and Implementation of BI Solutions on SAP ERP.
