@@ -5,7 +5,8 @@ layout: default
 ## Experience
 [Uber](#uber) | [Vodafone](#vodafone) | [ProCons-4it](#ProCons-4it) | [SAP](#SAP)
 
-###
+<p></br></p>
+
 ### <a name="uber"></a> Uber
 #### Data Analyst | Analytics & Insights | EMEA Community Operations S&P
 March 2019 - Present, Cairo & Amsterdam
@@ -20,7 +21,8 @@ February 2018 - February 2019, Cairo
 *   Built tools to ensure data quality and flag data issues to the engineering teams.
 *   Helped business to drive efficiency through data analyses.
 
-###
+<p></br></p>
+
 ### <a name="vodafone"></a> Vodafone
 #### Business Intelligence Engineer | Analytics Center of Excellence
 June 2017 - February 2018,  Cairo
@@ -28,8 +30,8 @@ June 2017 - February 2018,  Cairo
 * Utilizing SQL on Hadoop tools for data discovery, analysis, and manipulation.
 * Creating dashboards and reports to match the business requirements.
 
+<p></br></p>
 
-###
 ### <a name="ProCons-4it"></a>  ProCons-4it
 #### Business Intelligence Consultant
 August 2016 - June 2017,  Cairo
@@ -37,7 +39,8 @@ August 2016 - June 2017,  Cairo
 * Analyze, Design, Development, Testing and Implementation of BI Solutions on SAP ERP.
 * Analyze, Design and Create HANA data models to support various reporting.
 
-###
+<p></br></p>
+
 ### <a name="SAP"></a> SAP
 #### Intern | SAP Young Professionals Program
 May 2016 - July 2017,  Cairo
