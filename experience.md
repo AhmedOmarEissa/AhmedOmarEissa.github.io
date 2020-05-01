@@ -33,7 +33,8 @@ June 2017 - February 2018,  Cairo
 <p></p>
 
 ### <a name="ProCons-4it"></a>  ProCons-4it
-#### Business Intelligence Consultant
+####  <button type="button" class="collapsible">Business Intelligence Consultant</button>
+
 August 2016 - June 2017,  Cairo
 * Translate business requirements into specifications used to implement the required reports and dashboards
 * Analyze, Design, Development, Testing and Implementation of BI Solutions on SAP ERP.
