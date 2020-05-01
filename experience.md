@@ -35,12 +35,13 @@ June 2017 - February 2018,  Cairo
 ### <a name="ProCons-4it"></a>  ProCons-4it
 <details>
 
-#### <summary> Business Intelligence Consultant </summary>
+<summary> <h4> Business Intelligence Consultant </h4> </summary>
 
 August 2016 - June 2017,  Cairo
 * Translate business requirements into specifications used to implement the required reports and dashboards
 * Analyze, Design, Development, Testing and Implementation of BI Solutions on SAP ERP.
 * Analyze, Design and Create HANA data models to support various reporting.
+
 </details>
 
 <p></p>
