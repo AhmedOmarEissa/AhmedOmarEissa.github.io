@@ -20,6 +20,7 @@ February 2018 - February 2019, Cairo
 *   Built tools to ensure data quality and flag data issues to the engineering teams.
 *   Helped business to drive efficiency through data analyses.
 
+
 ### <a name="vodafone"></a> Vodafone
 #### Business Intelligence Engineer | Analytics Center of Excellence
 June 2017 - February 2018,  Cairo
@@ -27,12 +28,14 @@ June 2017 - February 2018,  Cairo
 * Utilizing SQL on Hadoop tools for data discovery, analysis, and manipulation.
 * Creating dashboards and reports to match the business requirements.
 
+
 ### <a name="ProCons-4it"></a>  ProCons-4it
 #### Business Intelligence Consultant
 August 2016 - June 2017,  Cairo
 * Translate business requirements into specifications used to implement the required reports and dashboards
 * Analyze, Design, Development, Testing and Implementation of BI Solutions on SAP ERP.
 * Analyze, Design and Create HANA data models to support various reporting.
+
 
 ### <a name="SAP"></a> SAP
 #### Intern | SAP Young Professionals Program
