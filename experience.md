@@ -34,7 +34,7 @@ June 2017 - February 2018,  Cairo
 
 ### <a name="ProCons-4it"></a>  ProCons-4it
 <details>
-  <summary>Business Intelligence Consultant </br> August 2016 - June 2017,  Cairo
+  <summary>Business Intelligence Consultant | August 2016 - June 2017,  Cairo
  </summary>
 <ul>
   <li>Translate business requirements into specifications used to implement the required reports and dashboards</li>
