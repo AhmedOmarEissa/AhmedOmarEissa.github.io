@@ -215,6 +215,12 @@ summary {
   padding: .5em;
 }
 
+summary:hover {
+  color:#069;
+  font-weight: bold;
+}
+
+
 
 details[open] summary {
   border-bottom: 1px solid #aaa;
