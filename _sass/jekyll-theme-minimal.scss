@@ -215,9 +215,12 @@ summary {
   padding: .5em;
 }
 
-summary:hover {
+summary:hover,summary:focus {
   color:#069;
   font-weight: bold;
+  text-decoration:none;
+  cursor: cell;
+
 }
 
 
