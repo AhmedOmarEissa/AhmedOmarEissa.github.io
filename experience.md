@@ -10,7 +10,7 @@ layout: default
 ### <a name="uber"></a> Uber
 
 <details>
-  <summary>Data Analyst | Analytics & Insights | EMEA Community Operations S&P | March 2019 - Present, Cairo & Amsterdam
+  <summary>Data Analyst | March 2019 - Present, Cairo & Amsterdam
  </summary>
 <ul>
   <li>Leading designing, implementation and maintenance a centralized data infrastructure</li>
@@ -22,7 +22,7 @@ layout: default
 
 
 <details>
-  <summary>Associate Business Analyst | EMEA Community Operations S&P | February 2018 - February 2019, Cairo
+  <summary>Associate Business Analyst |  February 2018 - February 2019, Cairo
  </summary>
 <ul>
   <li>Managed both business planning and A&I role supporting Eats community operations</li>
@@ -36,7 +36,7 @@ layout: default
 ### <a name="vodafone"></a> Vodafone
 
 <details>
-  <summary>Business Intelligence Engineer | Analytics Center of Excellence | June 2017 - February 2018,  Cairo
+  <summary>Business Intelligence Engineer | June 2017 - February 2018,  Cairo
  </summary>
 <ul>
   <li>Creating ELT jobs to extract the data from various data sources into Hadoop</li>
