@@ -8,27 +8,42 @@ layout: default
 <p></p>
 
 ### <a name="uber"></a> Uber
-#### Data Analyst | Analytics & Insights | EMEA Community Operations S&P
-March 2019 - Present, Cairo & Amsterdam
-* Leading designing, implementation and maintenance a centralized data infrastructure.
-* Creating, maintaining scorecards served as inputs to track business performance.
-*  Creating, designing and supporting centralized dashboards for to be used by business teams.
-*  Several short term projects for advanced analytics (Real-Time dashboards, Self-service analytics tools and forecasting model implementation using FB prophet).
 
-#### Associate Business Analyst | EMEA Community Operations S&P
-February 2018 - February 2019, Cairo
-*   Managed both business planning and A&I role supporting Eats community operations.
-*   Built tools to ensure data quality and flag data issues to the engineering teams.
-*   Helped business to drive efficiency through data analyses.
+<details>
+  <summary>Data Analyst | Analytics & Insights | EMEA Community Operations S&P | March 2019 - Present, Cairo & Amsterdam
+ </summary>
+<ul>
+  <li>Leading designing, implementation and maintenance a centralized data infrastructure</li>
+  <li>Creating, maintaining scorecards served as inputs to track business performance</li>
+  <li>Creating, designing and supporting centralized dashboards for to be used by business teams</li>
+  <li>Several short term projects for advanced analytics (Real-Time dashboards, Self-service analytics tools and forecasting model implementation using FB prophet)</li>
+</ul>
+</details>
+
+
+<details>
+  <summary>Associate Business Analyst | EMEA Community Operations S&P | February 2018 - February 2019, Cairo
+ </summary>
+<ul>
+  <li>Managed both business planning and A&I role supporting Eats community operations</li>
+  <li>Built tools to ensure data quality and flag data issues to the engineering teams</li>
+  <li>Helped business to drive efficiency through data analyses</li>
+</ul>
+</details>
 
 <p></p>
 
 ### <a name="vodafone"></a> Vodafone
-#### Business Intelligence Engineer | Analytics Center of Excellence
-June 2017 - February 2018,  Cairo
-* Creating ELT jobs to extract the data from various data sources into Hadoop.
-* Utilizing SQL on Hadoop tools for data discovery, analysis, and manipulation.
-* Creating dashboards and reports to match the business requirements.
+
+<details>
+  <summary>Business Intelligence Engineer | Analytics Center of Excellence | June 2017 - February 2018,  Cairo
+ </summary>
+<ul>
+  <li>Creating ELT jobs to extract the data from various data sources into Hadoop</li>
+  <li>Utilizing SQL on Hadoop tools for data discovery, analysis, and manipulation</li>
+  <li>Creating dashboards and reports to match the business requirements</li>
+</ul>
+</details>
 
 <p></p>
 
