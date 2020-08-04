@@ -12,3 +12,4 @@ plugins:
 twitter:
   username: ahmedomariessa
   card: summary
+  rss: true
