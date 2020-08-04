@@ -9,6 +9,8 @@ Technical articles in Analytics, Machine learning, Data Science:
 ### <a href="https://www.quora.com/profile/Ahmed-Omar-Eissa" target="_blank">Quora</a>
 Data Analysis is all about answering questions.so, here are my answers to quora questions.
 
+<a href="https://twitter.com/intent/tweet?screen_name=AhmedOmarEissa&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @AhmedOmarEissa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <a class="twitter-timeline" href="https://twitter.com/AhmedOmarEissa?ref_src=twsrc%5Etfw">Tweets by AhmedOmarEissa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Articles
