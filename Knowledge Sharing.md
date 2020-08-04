@@ -15,11 +15,14 @@ Data Analysis is all about answering questions.so, here are my answers to quora 
 
 #### <a href="https://bayanat-eg.com/profile/omar/posts" target="_blank"> Bayanat</a>
 <a href="https://bayanat-eg.com/%d8%a7%d8%b4%d9%87%d8%b1-%d8%a7%d9%84%d9%88%d8%b8%d8%a7%d8%a6%d9%81-%d9%81%d9%8a-%d9%85%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa/" target="_blank">اشهر الوظائف في مجال البيانات</a>
+
 <a href="https://bayanat-eg.com/%d8%a3%d8%a8%d8%af%d8%a3-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f-%d9%88%d8%a3%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%8a%d9%87%d8%9f/" target="_blank">أبدأ ازاي؟ وأتعلم ايه؟</a>
+
 <a href="https://bayanat-eg.com/%d8%a3%d8%aa%d8%b9%d9%84%d9%85-data-visualization-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f/" target="_blank">أتعلم Data Visualization ازاي؟</a>
+
 <a href="https://bayanat-eg.com/%d8%a7%d8%b2%d8%a7%d9%8a-%d8%a3%d8%a8%d8%af%d8%a3-%d9%81%d9%8a-%d8%a7%d9%84%d9%80-machine-learning-%d8%9f/" target="_blank">ازاي أبدأ في الـ Machine Learning ؟</a>
-<a href="https://bayanat-eg.com/%d8%a3%d8%aa%d8%b9%d9%84%d9%85-%d8%a5%d8%ad%d8%b5%d8%a7%d8%a1-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f/" target="_blank">أتعلم إحصاء ازاي؟
- </a>
+
+<a href="https://bayanat-eg.com/%d8%a3%d8%aa%d8%b9%d9%84%d9%85-%d8%a5%d8%ad%d8%b5%d8%a7%d8%a1-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f/" target="_blank">أتعلم إحصاء ازاي؟</a>
 
 
 
