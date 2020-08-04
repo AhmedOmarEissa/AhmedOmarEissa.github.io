@@ -114,6 +114,7 @@ img {
 }
 
 header {
+  color:#069;
   width:270px;
   float:left;
   position:fixed;
@@ -246,7 +247,6 @@ details[open] summary {
 
   header {
     padding-right:320px;
-    color: blue($color: #000000);
   }
 
   section {
