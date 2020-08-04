@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<meta name="google-site-verification" content="crP4SiI6sEndxeerV0BcXU1vqPQsLrVDUas6wRFxLjI" />
 
 # Welcome
 Let me give you a quick intro about myself. I've started my career at Analytics in 2016 I've been working on a broad scope of data tasks aiming to empower the decisions of the business. I started my career with an internship in BI in SAP, followed by 1 year of consultancy job as a BI consultant. After that, I wanted to work with more data, so I joined Vodafone to work on Hadoop/Hive more. Then, I've realized that I want to be closer to the business to understand how the business makes use of data to inform decisions.
