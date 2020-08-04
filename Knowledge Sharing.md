@@ -8,10 +8,14 @@ Technical articles in Analytics, Machine learning, Data Science:
 
 ### <a href="https://www.quora.com/profile/Ahmed-Omar-Eissa" target="_blank">Quora</a>
 Data Analysis is all about answering questions.so, here are my answers to quora questions.
+FAQs:
 
-<a href="https://twitter.com/intent/tweet?screen_name=AhmedOmarEissa&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Have another question? tweet to @AhmedOmarEissa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Have another question?
+<a href="https://twitter.com/intent/tweet?screen_name=AhmedOmarEissa&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">tweet to @AhmedOmarEissa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Articles
+
 #### <a href="https://medium.com/@hmedOmarEissa" target="_blank"> Medium</a>
 <a href="https://medium.com/@hmedOmarEissa/takeaways-from-learning-cloud-data-engineering-83cf18116c9c" target="_blank">Takeaways from learning cloud data engineering</a>
 
