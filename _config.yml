@@ -5,7 +5,8 @@ show_downloads: false
 is_user_page: false
 #google_analytics:
 theme: jekyll-theme-minimal
-plugins: jekyll-seo-tag
+plugins:
+- jekyll-seo-tag
 
 twitter:
   username: ahmedomariessa
