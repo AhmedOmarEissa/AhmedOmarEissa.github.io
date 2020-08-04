@@ -1,13 +1,11 @@
 title: Ahmed Omar Eissa
-tagline: Test
-description: #Analytics & Insights Community Operations EMEA Uber
+description: Analytics & Insights Community Operations EMEA Uber
 logo: /assets/img/Me.png
 show_downloads: false
 is_user_page: false
 #google_analytics:
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-seo-tag
+plugins: jekyll-seo-tag
 
 twitter:
   username: ahmedomariessa
