@@ -24,11 +24,10 @@ Have another question?
 
 <a href="https://bayanat-eg.com/%d8%a3%d8%a8%d8%af%d8%a3-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f-%d9%88%d8%a3%d8%aa%d8%b9%d9%84%d9%85-%d8%a7%d9%8a%d9%87%d8%9f/" target="_blank">أبدأ ازاي؟ وأتعلم ايه؟</a>
 
-<a href="https://bayanat-eg.com/%d8%a3%d8%aa%d8%b9%d9%84%d9%85-data-visualization-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f/" target="_blank">أتعمل Data Visualizationازاي ال</a>
+<a href="https://bayanat-eg.com/%d8%a3%d8%aa%d8%b9%d9%84%d9%85-data-visualization-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f/" target="_blank">إزاي اتعلم عرض البيانات؟ </a>
 
 <a href="https://bayanat-eg.com/%d8%a7%d8%b2%d8%a7%d9%8a-%d8%a3%d8%a8%d8%af%d8%a3-%d9%81%d9%8a-%d8%a7%d9%84%d9%80-machine-learning-%d8%9f/" target="_blank">ازاي أبدأ في التعلم الألي؟ </a>
 
 <a href="https://bayanat-eg.com/%d8%a3%d8%aa%d8%b9%d9%84%d9%85-%d8%a5%d8%ad%d8%b5%d8%a7%d8%a1-%d8%a7%d8%b2%d8%a7%d9%8a%d8%9f/" target="_blank">أتعلم إحصاء ازاي؟</a>
 
 
-[back](./)
