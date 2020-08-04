@@ -9,3 +9,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
 
+twitter:
+  username: ahmedomariessa
+  card: summary
