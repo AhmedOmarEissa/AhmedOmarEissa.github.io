@@ -7,6 +7,8 @@ is_user_page: false
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-seo-tag
+- jekyll-sitemap
+
 
 twitter:
   username: ahmedomariessa
