@@ -6,6 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="crP4SiI6sEndxeerV0BcXU1vqPQsLrVDUas6wRFxLjI" />
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166776927-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-166776927-1');
+</script>
 
     <title>
         {%if page.title %}
