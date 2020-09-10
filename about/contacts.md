@@ -1,4 +1,4 @@
 ---
-layout: test
+layout: post
 permalink: /about/contacts
 ---
