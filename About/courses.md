@@ -3,10 +3,6 @@ layout: default
 permalink: /about/courses
 
 ---
-
-
-## Courses
-
 ### Courses I've completed:
 Usually I take a course or two every month, some of them are good so I pursue the certificates, below those are the courses I've completed and recieved certificates for:
 
