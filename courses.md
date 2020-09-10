@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[back](./)
+[Home](./)
 ## Courses
 
 ### Courses I've completed:
