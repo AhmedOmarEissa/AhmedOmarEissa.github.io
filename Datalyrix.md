@@ -4,10 +4,9 @@ title: Datalyrix
 permalink: /datalyrix/
 
 ---
-## Datalyrix
+
 
 Personal blog & podcast in Analytics, Machine learning, Data Science:
-
 
 ### Articles
 
