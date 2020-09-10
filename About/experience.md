@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: home
 permalink: /about/experience
 
 ---
 ## Experience
 <!--[Uber](#uber) | [Vodafone](#vodafone) | [ProCons-4it](#ProCons-4it) | [SAP](#SAP)-->
-
-<p></p>
 
 ### <a name="uber"></a> Uber
 
