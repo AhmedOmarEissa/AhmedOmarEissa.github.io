@@ -3,7 +3,6 @@ layout: default
 permalink: /about/courses
 
 ---
-[Home](./)
 
 ## Courses
 
@@ -24,4 +23,3 @@ Usually I take a course or two every month, some of them are good so I pursue th
 *   Applied Machine Learning: Algorithms
 *   Advanced Python
 
-[back](./)
