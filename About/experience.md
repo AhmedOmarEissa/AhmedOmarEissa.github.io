@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /about/experience
+
 ---
 [Home](./)
 ## Experience
