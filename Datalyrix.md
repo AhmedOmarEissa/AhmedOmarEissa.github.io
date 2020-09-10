@@ -4,7 +4,6 @@ title: Datalyrix
 permalink: /datalyrix/
 
 ---
-[Home](./)
 ## Datalyrix
 
 Personal blog & podcast in Analytics, Machine learning, Data Science:
