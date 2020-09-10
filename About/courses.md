@@ -3,7 +3,7 @@ layout: default
 permalink: /about/courses
 
 ---
-### Courses I've completed:
+Courses I've completed:
 Usually I take a course or two every month, some of them are good so I pursue the certificates, below those are the courses I've completed and recieved certificates for:
 
 ### <a href="https://www.datacamp.com/profile/AhmedOmarEissa" target="_blank">DataCamp</a>
