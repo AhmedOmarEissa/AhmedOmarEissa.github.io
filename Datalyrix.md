@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Datalyrix
+permalink: /about/
+
 ---
 [Home](./)
 ## Datalyrix
