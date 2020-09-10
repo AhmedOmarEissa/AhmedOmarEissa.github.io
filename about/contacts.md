@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: test
 permalink: /about/contacts
 ---
