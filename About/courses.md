@@ -4,6 +4,7 @@ permalink: /about/courses
 
 ---
 
+
 ## Courses
 
 ### Courses I've completed:
