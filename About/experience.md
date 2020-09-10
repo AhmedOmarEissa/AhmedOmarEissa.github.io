@@ -3,7 +3,6 @@ layout: default
 permalink: /about/experience
 
 ---
-[Home](./)
 ## Experience
 <!--[Uber](#uber) | [Vodafone](#vodafone) | [ProCons-4it](#ProCons-4it) | [SAP](#SAP)-->
 
@@ -74,4 +73,3 @@ permalink: /about/experience
 
 
 
-[back](./)

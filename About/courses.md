@@ -1,7 +1,10 @@
 ---
 layout: default
+permalink: /about/courses
+
 ---
 [Home](./)
+
 ## Courses
 
 ### Courses I've completed:
