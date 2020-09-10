@@ -4,7 +4,7 @@ logo: /assets/img/Me.png
 show_downloads: false
 is_user_page: false
 #google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
