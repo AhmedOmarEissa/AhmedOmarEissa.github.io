@@ -11,28 +11,30 @@ layout: page
 
  <a href="https://www.linkedin.com/in/ahmedomareissa/" target="7mada"></a>
 
-
-<img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Linkedin-Icon.png" width=25" height="25">
-
-
+[linkedin](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Linkedin-Icon.png)
 
 
 <a href="https://twitter.com/AhmedOmarEissa" target="_blank">
-<img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/twitter.png" width=25" height="25">
+
+[twitter](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/twitter.png)
 </a>
 <a href="https://github.com/AhmedOmarEissa" target="_blank">
-<img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/GitHub-Mark.png" width=25" height="25">
+
+[http://www.github.com/](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/GitHub-Mark.png)
 </a>
 
 <a href="https://www.quora.com/profile/Ahmed-Omar-Eissa" target="_blank">
-<img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Quora.png" width=25" height="25">
+[Quora](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Quora.png)
 </a>
 <a href="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/Ahmed%20Omar%20Eissa.pdf" target="_blank">
-<img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/pdf.webp" width=25" height="25">
+
+[pdf](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/pdf.webp)
+
 </a>
 
+
 <a href="mailto:ahmedomar92@yahoo.com" target="_blank">
-<img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/mail.png" width=25" height="25">
+[](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/mail.png)
 </a>
 
 
