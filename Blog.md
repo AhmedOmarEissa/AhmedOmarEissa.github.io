@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Datalyrix
-permalink: /datalyrix/
+title: Blog
+permalink: /blog/
 
 ---
 
 
-Personal blog & podcast in Analytics, Machine learning, Data Science:
+Personal blog in Analytics, Machine learning, Data Science:
 
 ### Articles
 
