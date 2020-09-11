@@ -12,7 +12,11 @@ layout: page
  <a href="https://www.linkedin.com/in/ahmedomareissa/" target="_blank">
 
 <img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Linkedin-Icon.png" width=25" height="25">
+
+
 </a>
+
+
 <a href="https://twitter.com/AhmedOmarEissa" target="_blank">
 <img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/twitter.png" width=25" height="25">
 </a>
@@ -34,8 +38,8 @@ layout: page
 
 ### Skills
 
-# |:-------------|:------------------|:---------|
-# | SQL          | ETL               | Tableau  |
-# | Python       | Machine Learning  | Dash     |
-# | Big Data     | Data Modeling     | Git      |
-# | Statistics   |                   |          |
+ |:-------------|:------------------|:---------|
+ | SQL          | ETL               | Tableau  |
+ | Python       | Machine Learning  | Dash     |
+ | Big Data     | Data Modeling     | Git      |
+ | Statistics   |                   |          |
