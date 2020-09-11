@@ -9,12 +9,12 @@ layout: page
 
 ### Contacts
 
- <a href="https://www.linkedin.com/in/ahmedomareissa/" target="_blank">
+ <a href="https://www.linkedin.com/in/ahmedomareissa/" target="7mada"></a>
+
 
 <img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Linkedin-Icon.png" width=25" height="25">
 
 
-</a>
 
 
 <a href="https://twitter.com/AhmedOmarEissa" target="_blank">
