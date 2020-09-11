@@ -8,6 +8,8 @@ layout: page
 
 
 ### Contacts
+[button url="http://www.google.com"]
+
 [Linkedin](https://www.linkedin.com/in/ahmedomareissa/)
 [Twitter](https://twitter.com/AhmedOmarEissa)
 [Github](https://github.com/AhmedOmarEissa)
