@@ -7,9 +7,9 @@ layout: page
 *   BI Consultant
 
 
-## Contacts
+### Contacts
 
-<!-- <a href="https://www.linkedin.com/in/ahmedomareissa/" target="_blank">
+ <a href="https://www.linkedin.com/in/ahmedomareissa/" target="_blank">
 
 <img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/Linkedin-Icon.png" width=25" height="25">
 </a>
@@ -30,15 +30,12 @@ layout: page
 <a href="mailto:ahmedomar92@yahoo.com" target="_blank">
 <img  src="https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/img/mail.png" width=25" height="25">
 </a>
---> 
-
-## Skills
-
-|:-------------|:------------------|:---------|
-| SQL          | ETL               | Tableau  |
-| Python       | Machine Learning  | Dash     |
-| Big Data     | Data Modeling     | Git      |
-| Statistics   |                   |          |
 
 
+### Skills
 
+# |:-------------|:------------------|:---------|
+# | SQL          | ETL               | Tableau  |
+# | Python       | Machine Learning  | Dash     |
+# | Big Data     | Data Modeling     | Git      |
+# | Statistics   |                   |          |
