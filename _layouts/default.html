@@ -8,6 +8,7 @@
     <meta name="google-site-verification" content="crP4SiI6sEndxeerV0BcXU1vqPQsLrVDUas6wRFxLjI" />
     <meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
     {% seo %}
+    {% include analytics.html %}
 </head>
 
   {%- include head.html -%}
