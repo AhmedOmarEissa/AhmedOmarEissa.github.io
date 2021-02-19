@@ -9,9 +9,6 @@ My current role is involving a very broad range of tasks, starting from data eng
 
 On personal level, I like reading specially in mathematics and logic, recently I started writing some blog posts to share data science knowledge in Arabic.
 
-### Contacts
-
-[Linkedin](https://www.linkedin.com/in/ahmedomareissa/){:target="_blank"} |  [Twitter](https://twitter.com/AhmedOmarEissa){:target="_blank"} | [Github](https://github.com/AhmedOmarEissa){:target="_blank"} | [Quora](https://www.quora.com/profile/Ahmed-Omar-Eissa){:target="_blank"} | [Resume](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/{:target="_blank"}Ahmed%20Omar%20Eissa.pdf)
 
 ## [Experience](./experience)  |   [Courses](./courses)
 

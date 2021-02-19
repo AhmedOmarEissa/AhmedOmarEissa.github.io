@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  
-permalink: /about/experience
+title:
+permalink: /experience
 
 ---
 ## Experience

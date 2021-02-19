@@ -1,7 +1,7 @@
 ---
 layout: default
 title:
-permalink: /about/courses
+permalink: /courses
 
 ---
 Courses I've completed:
