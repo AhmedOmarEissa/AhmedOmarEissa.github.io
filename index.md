@@ -22,5 +22,3 @@ On personal level, I like reading specially in mathematics and logic, recently I
 
 
 
-### [Experience](./experience)  |   [Courses](./courses)   |   [Contacts](./contacts)
-
