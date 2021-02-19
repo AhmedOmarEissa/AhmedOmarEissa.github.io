@@ -2,11 +2,18 @@
 layout: page
 ---
 
-Data Analyst | Data Engineer | BI Consultant
+### About
+Let me give you a quick intro about myself. I’ve started my career at Analytics in 2016 I’ve been working on a broad scope of data tasks aiming to empower the decisions of the business. I started my career with an internship in BI in SAP, followed by 1 year of consultancy job as a BI consultant. After that, I wanted to work with more data, so I joined Vodafone to work on Hadoop/Hive more. Then, I’ve realized that I want to be closer to the business to understand how the business makes use of data to inform decisions.
+
+My current role is involving a very broad range of tasks, starting from data engineering to build easy-to-use data tables, followed by building centralized dashboards for hundreds of consumers and building centralized self-service tools to automate insight generation and reduce data requests. Being a partner with the business and a member of the Strategy & Planning team, I’m also helping to steer the business by addressing the pain-points and helping find the solution.
+
+On personal level, I like reading specially in mathematics and logic, recently I started writing some blog posts to share data science knowledge in Arabic.
 
 ### Contacts
 
 [Linkedin](https://www.linkedin.com/in/ahmedomareissa/){:target="_blank"} |  [Twitter](https://twitter.com/AhmedOmarEissa){:target="_blank"} | [Github](https://github.com/AhmedOmarEissa){:target="_blank"} | [Quora](https://www.quora.com/profile/Ahmed-Omar-Eissa){:target="_blank"} | [Resume](https://github.com/AhmedOmarEissa/AhmedOmarEissa.github.io/raw/master/assets/{:target="_blank"}Ahmed%20Omar%20Eissa.pdf)
+
+## [Experience](./experience)  |   [Courses](./courses)
 
 ### Skills
 
