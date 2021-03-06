@@ -1,5 +1,7 @@
 ---
 layout: post
+permalink: analyses/EuropeanLeaguesAnalysis/
+
 ---
 
 # European Leagues Analysis
