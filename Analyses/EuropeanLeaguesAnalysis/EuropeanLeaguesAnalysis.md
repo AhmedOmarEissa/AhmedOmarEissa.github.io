@@ -1,6 +1,5 @@
 ---
 layout: page
-title: European Leagues Analysis
 permalink: /analyses/EuropeanLeague
 
 ---
