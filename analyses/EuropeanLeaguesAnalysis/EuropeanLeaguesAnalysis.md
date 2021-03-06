@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 permalink: analyses/EuropeanLeaguesAnalysis/
 
 ---
+
 
 # European Leagues Analysis
 [Github link](https://github.com/AhmedOmarEissa/EuropeanLeaguesAnalysis)

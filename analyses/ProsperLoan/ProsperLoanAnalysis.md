@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Prosper Loan Analysis
+layout: page
 permalink: analyses/ProsperLoan
 
 ---
+
 
 # Prosper Loan Analysis
 
