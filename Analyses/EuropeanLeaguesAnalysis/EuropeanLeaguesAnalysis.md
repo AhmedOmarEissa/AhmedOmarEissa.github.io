@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: European Leagues Analysis
 permalink: /analyses/EuropeanLeague
 
@@ -7,9 +7,6 @@ permalink: /analyses/EuropeanLeague
 
 # European Leagues Analysis
 [Github link](https://github.com/AhmedOmarEissa/EuropeanLeaguesAnalysis)
-
-
-# European Leagues Analysis
 
 This is an analysis created for Udacity advanced data analysis nano degree, the goal is to provide basic analysis on any dataset.
 
