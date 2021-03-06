@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /analyses/EuropeanLeague
+layout: default
+title: European Leagues Analysis
 
 ---
 
