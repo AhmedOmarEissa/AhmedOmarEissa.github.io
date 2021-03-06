@@ -1,9 +1,8 @@
 ---
 layout: post
-permalink: analyses/EuropeanLeaguesAnalysis/
+permalink: Analyses/EuropeanLeaguesAnalysis/
 ---
 [back](../)
-
 # European Leagues Analysis
 [Github link](https://github.com/AhmedOmarEissa/EuropeanLeaguesAnalysis)
 
@@ -29,8 +28,6 @@ If I have more time on the future, I like to create a tool where user can add th
 
 ## Links:
 [Kaggle notebook](https://www.kaggle.com/ahmedomareissa/players-rating-change-with-age)
-
-[NB Viwere](https://nbviewer.jupyter.org/github/AhmedOmarEissa/EuropeanLeaguesAnalysis/blob/master/Players%20rating%20change%20with%20age.ipynb)
 
 
 [notebook](https://nbviewer.jupyter.org/github/AhmedOmarEissa/EuropeanLeaguesAnalysis/blob/master/Players%20rating%20change%20with%20age.ipynb)
