@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analyses
-permalink: /Analyses
+permalink: /Analyses/
 
 ---
 # [Prosper Loan Analysis](Analyses/ProsperLoan)

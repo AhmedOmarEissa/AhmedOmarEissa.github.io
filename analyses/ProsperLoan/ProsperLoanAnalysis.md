@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: Analyses/ProsperLoan
+permalink: Analyses/ProsperLoan/
 
 ---
 [back](../)
