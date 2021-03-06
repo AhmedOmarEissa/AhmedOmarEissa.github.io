@@ -1,9 +1,8 @@
 ---
 layout: post
 permalink: analyses/EuropeanLeaguesAnalysis/
-
 ---
-
+[back](../)
 
 # European Leagues Analysis
 [Github link](https://github.com/AhmedOmarEissa/EuropeanLeaguesAnalysis)
@@ -20,7 +19,7 @@ Using [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) on k
 To answer this question, I've used the player rating as an indication of the performance, tracking the change % in player rating against his own average rating across different ages, then plot the average change % for all the players in the dataset.
 
 ## Key finding
-![KeyFinding](https://github.com/AhmedOmarEissa/EuropeanLeaguesAnalysis/blob/master/Key%20Finding.png)
+![KeyFinding](Key%20Finding.png)
 
 Players are on top of their game between 24 - 32 years with 2.5% increase in their rating vs their own average.
 
