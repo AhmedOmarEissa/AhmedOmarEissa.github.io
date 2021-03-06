@@ -25,7 +25,7 @@ I digged deeper in the debt consolidation loans, trying to understand when peopl
 
 ![alt text](Summary2.png)
 
-![alt text](Summary1.png)
+![alt text](Summary3.png)
 
 
 [Notebook](./ProsperLoanAnalysis.html)
