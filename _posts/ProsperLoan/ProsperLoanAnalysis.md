@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: Prosper Loan Analysis
-permalink: /analyses/ProsperLoanAnalysis
 
 ---
 

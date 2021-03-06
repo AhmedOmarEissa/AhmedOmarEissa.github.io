@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 # European Leagues Analysis
