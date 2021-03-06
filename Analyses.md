@@ -4,7 +4,7 @@ title: Analyses
 permalink: /Analyses/
 
 ---
-# [Prosper Loan Analysis](Analyses/ProsperLoan)
+# [Prosper Loan Analysis](/Analyses/ProsperLoan)
 In the exploration, I tracked the loan features change over the years, focusing on the impact after 2008 financial crisis.
 
 
