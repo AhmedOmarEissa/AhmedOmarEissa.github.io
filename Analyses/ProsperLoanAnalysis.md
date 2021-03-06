@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: ProsperLoanAnalysis
 permalink: /analyses/ProsperLoanAnalysis
 
