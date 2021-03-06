@@ -1,7 +1,5 @@
 ---
 layout: default
-title: European Leagues Analysis
-
 ---
 
 # European Leagues Analysis
