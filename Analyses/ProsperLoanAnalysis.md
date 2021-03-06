@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Blog
+layout: blog
+title: ProsperLoanAnalysis
 permalink: /analyses/ProsperLoanAnalysis
 
 ---
@@ -23,6 +23,7 @@ In the exploration, I tracked the loan features change over the years, focusing 
 I digged deeper in the debt consolidation loans, trying to understand when people tend to request debt consolidation loan. Non debt consolidation seems bi-modal, which make sense, people don't take loans because either they don't have open credit items or they don't like the idea and starting from 7 open items we see an increase in the % of dept consolidation.
 
 [Notebook](./ProsperLoanAnalysis.html)
+{% include ProsperLoanAnalysis.html %}
 
 
 
