@@ -4,7 +4,7 @@ permalink: blog/DockerVsCode/
 ---
 
 
-# Running your dockerized jupyter notebook on Visual Studio Code.
+## Running your dockerized jupyter notebook on Visual Studio Code.
 
 
 I want to give here an end to end steps on how to run your dockerized jupyter notebook server on visual studio code so you can get the best of both worlds. 
