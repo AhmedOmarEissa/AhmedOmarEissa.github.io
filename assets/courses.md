@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Courses
+#layout: default
+#title: Courses
 # permalink: /courses
 
 ---

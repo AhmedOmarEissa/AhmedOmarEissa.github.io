@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Contacts
+#layout: default
+#title: Contacts
 # permalink: /contacts
 
 ---
