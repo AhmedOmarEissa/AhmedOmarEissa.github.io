@@ -1,3 +1,9 @@
+---
+layout: post
+permalink: blog/DockerVsCode/
+---
+
+
 # Running your dockerized jupyter notebook on Visual Studio Code.
 
 
