@@ -1,10 +1,10 @@
----
+<!-- ---
 #layout: default
 #title: Contacts
 # permalink: /contacts
 
 ---
-
+ -->
 ### Contacts
 
 [Linkedin](https://www.linkedin.com/in/ahmedomareissa/){:target="_blank"}
