@@ -10,6 +10,10 @@ Personal blog in Analytics, Machine learning, Data Science:
 
 ### Articles
 
+
+### [Using Dockerized notebook from VS Code](/blog/DockerVsCode)
+
+
 #### Quora
 Data Analysis is all about answering questions.so, here are my answers to few quora questions.
 <a href="https://www.quora.com/profile/Ahmed-Omar-Eissa" target="_blank">Quora</a>
