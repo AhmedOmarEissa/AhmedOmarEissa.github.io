@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Courses
-permalink: /courses
+# permalink: /courses
 
 ---
 Courses I've completed:
