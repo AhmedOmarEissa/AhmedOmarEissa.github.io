@@ -10,7 +10,7 @@ permalink: /blog/
 
 
 Personal blog in Analytics, Machine learning, Data Science:
-<!-- #### [- Running your dockerized jupyter notebook on Visual Studio Code](/blog/DockerVsCode) -->
+#### [- Running your dockerized jupyter notebook on Visual Studio Code](/blog/DockerVsCode)
 
 
 
