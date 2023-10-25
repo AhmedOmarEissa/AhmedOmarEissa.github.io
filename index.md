@@ -1,8 +1,17 @@
 ---
 layout: page
+includes:
+       in_header: analytics.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F4FJWDMJT1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-
+  gtag('config', 'G-F4FJWDMJT1');
+</script>
 
 <div style="text-align: justify">
 👋 Hi, I'm Ahmed Omar Eissa, a Senior Data Analyst with a passion for leveraging data to drive impactful decision-making. 🔍 With over 6 years of experience in data analysis, data science, and data engineering, I've developed a proven track record of generating insights that lead to real business results. 💻 My expertise in tools such as Python, Tableau, and SQL allows me to turn complex data sets into actionable insights that drive growth and improve performance. 🚀 Whether it's automating processes, developing self-service analytics tools, or running successful A/B testing experiments, I'm always eager to find innovative solutions to complex problems.

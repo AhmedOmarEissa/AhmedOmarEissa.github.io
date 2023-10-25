@@ -4,7 +4,15 @@ title: Blog
 permalink: /blog/
 
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F4FJWDMJT1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-F4FJWDMJT1');
+</script>
 
 #### <a href="https://www.quora.com/profile/Ahmed-Omar-Eissa" target="_blank">Quora</a> |  <a href="https://medium.com/@hmedOmarEissa" target="_blank">Medium</a>
 
