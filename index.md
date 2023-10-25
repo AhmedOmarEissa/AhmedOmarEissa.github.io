@@ -1,17 +1,8 @@
 ---
 layout: page
-includes:
-       in_header: analytics.html
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-F4FJWDMJT1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-F4FJWDMJT1');
-</script>
+
 
 <div style="text-align: justify">
 Let me give you a quick intro about myself. I’ve started my career at Analytics in 2016 I’ve been working on a broad scope of data tasks aiming to empower the decisions of the business. I started my career with an internship in BI in SAP, followed by 1 year of consultancy job as a BI consultant. After that, I wanted to work with more data, so I joined Vodafone to work on Hadoop/Hive more. Then, I’ve realized that I want to be closer to the business to understand how the business makes use of data to inform decisions.
