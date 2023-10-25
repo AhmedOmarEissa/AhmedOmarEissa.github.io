@@ -56,7 +56,7 @@ Congrats now you're able to connect to jupyter lab in a docker image, now let's 
 1- Click **F1** to show all commands
 2- Choose **Python: Specify local or remote Jupyter server for connections**
 
-![juypterlab](F1.png)
+![juypterlab](f1.png)
 
 
 3- Then select **Existing**
