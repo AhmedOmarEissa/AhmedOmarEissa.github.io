@@ -4,6 +4,16 @@ title: Analyses
 permalink: /Analyses/
 
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F4FJWDMJT1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-F4FJWDMJT1');
+</script>
+
 # [Prosper Loan Analysis](/Analyses/ProsperLoan)
 In the exploration, I tracked the loan features change over the years, focusing on the impact after 2008 financial crisis.
 
