@@ -1,5 +1,8 @@
 ---
 layout: page
+includes:
+       in_header: analytics.html
+
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-F4FJWDMJT1"></script>
