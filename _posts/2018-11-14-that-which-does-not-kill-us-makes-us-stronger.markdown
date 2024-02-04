@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  That which does not kill us makes us stronger
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
@@ -39,4 +39,4 @@ Completely synergize resource taxing relationships via premier niche markets. Pr
 
 Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices. -->
