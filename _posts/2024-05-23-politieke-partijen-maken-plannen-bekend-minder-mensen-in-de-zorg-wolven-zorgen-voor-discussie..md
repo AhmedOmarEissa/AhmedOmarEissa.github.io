@@ -12,8 +12,7 @@ This text is automatically generated from the subtitles of NOS Nieuws van de Wee
 
 ## Politieke partijen maken plannen bekend, minder mensen in de zorg, wolven zorgen voor discussie.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YN5REoZcryQ/0.jpg)](https://www.youtube.com/watch?v=YN5REoZcryQ)
-
+<p><iframe src="https://www.youtube.com/watch?v=YN5REoZcryQ" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 New words: wolven, zorg, wolf, partijen, mensen, afspraken, reeën, willen, werken, plannen
 

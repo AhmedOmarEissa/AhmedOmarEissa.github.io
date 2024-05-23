@@ -4,7 +4,6 @@ title: Meer slagbomen bij het spoor, verkiezingen in Europa en vaccin voor schap
 date: 2024-05-20 00:54:23 +0000
 description: NOS news for the week
 tags: NOS project
-video_embed: https://www.youtube.com/watch?v=1PpRycJ4ZZQ
 image: https://img.youtube.com/vi/1PpRycJ4ZZQ/0.jpg
 ---
 
@@ -12,8 +11,7 @@ This text is automatically generated from the subtitles of NOS Nieuws van de Wee
 
 ## Meer slagbomen bij het spoor, verkiezingen in Europa en vaccin voor schapen
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1PpRycJ4ZZQ/0.jpg)](https://www.youtube.com/watch?v=1PpRycJ4ZZQ)
-
+<p><iframe src="https://www.youtube.com/watch?v=1PpRycJ4ZZQ" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 
 New words: schapen, oversteken, verkiezingen, parlement, europees, onbewaakte, we, europa, partijen, vaccin
