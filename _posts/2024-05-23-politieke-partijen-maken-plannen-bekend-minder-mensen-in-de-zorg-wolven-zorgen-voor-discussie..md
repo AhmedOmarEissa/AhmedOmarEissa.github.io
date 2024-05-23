@@ -4,7 +4,7 @@ title: Politieke partijen maken plannen bekend, minder mensen in de zorg, wolven
 date: 2024-05-23 21:10:13 +0000
 description: NOS news for the week
 tags: NOS project
-video_embed: https://www.youtube.com/watch?v=YN5REoZcryQ
+# video_embed: https://www.youtube.com/watch?v=YN5REoZcryQ
 image: https://img.youtube.com/vi/YN5REoZcryQ/0.jpg
 ---
 
