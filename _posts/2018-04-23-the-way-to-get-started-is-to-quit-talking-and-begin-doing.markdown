@@ -1,5 +1,5 @@
 <!-- ---
-layout: post
+la/Users/ahmed.omar/Documents/GitHub/LanguagesTube/articles/meer-slagbomen-bij-het-spoor-verkiezingen-in-europa-en-vaccin-voor-schapen.md: post
 title:  The way to get started is to quit talking and begin doing
 description: Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative a...
 date:   2020-04-23 15:01:35 +0300
