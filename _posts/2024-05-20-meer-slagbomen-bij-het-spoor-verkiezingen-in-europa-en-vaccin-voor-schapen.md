@@ -11,7 +11,7 @@ This text is automatically generated from the subtitles of NOS Nieuws van de Wee
 
 ## Meer slagbomen bij het spoor, verkiezingen in Europa en vaccin voor schapen
 
-<p><iframe src="https://www.youtube.com/watch?v=1PpRycJ4ZZQ" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.youtube.com/embed/1PpRycJ4ZZQ" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 
 New words: schapen, oversteken, verkiezingen, parlement, europees, onbewaakte, we, europa, partijen, vaccin
