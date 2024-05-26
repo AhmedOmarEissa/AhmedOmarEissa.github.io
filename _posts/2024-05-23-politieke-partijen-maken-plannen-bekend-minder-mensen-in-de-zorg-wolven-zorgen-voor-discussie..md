@@ -4,15 +4,13 @@ title: Politieke partijen maken plannen bekend, minder mensen in de zorg, wolven
 date: 2024-05-23 21:10:13 +0000
 description: NOS news for the week
 tags: NOS project
-# video_embed: https://www.youtube.com/watch?v=YN5REoZcryQ
+video_embed: https://www.youtube.com/embed/YN5REoZcryQ
 image: https://img.youtube.com/vi/YN5REoZcryQ/0.jpg
 ---
 
 This text is automatically generated from the subtitles of NOS Nieuws van de Week. The code used is in [this repo](https://github.com/AhmedOmarEissa/LanguagesTube).
 
 ## Politieke partijen maken plannen bekend, minder mensen in de zorg, wolven zorgen voor discussie.
-
-<p><iframe src="https://www.youtube.com/embed/YN5REoZcryQ" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
 
 New words: wolven, zorg, wolf, partijen, mensen, afspraken, reeën, willen, werken, plannen
 
