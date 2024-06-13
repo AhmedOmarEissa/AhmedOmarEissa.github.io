@@ -3,7 +3,7 @@ layout: post
 title: Meer slagbomen bij het spoor, verkiezingen in Europa en vaccin voor schapen
 date: 2024-05-20 00:54:23 +0000
 description: NOS news for the week
-tags: NOS project
+tags: dutch
 image: https://img.youtube.com/vi/1PpRycJ4ZZQ/0.jpg
 video_embed: https://www.youtube.com/embed/1PpRycJ4ZZQ
 
